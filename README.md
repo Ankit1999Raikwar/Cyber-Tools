@@ -213,19 +213,77 @@ Perfect for lead generation, market analysis, and competitive research.
 
 [[ip-whois-lookup](https://iplocation.io/ip-whois-lookup)]
 
-[[]()]
+## Network Scannig
+
+[[Nmap](https://nmap.org/)] active and passive scannig with multiple funcnality.
+
+[[Zenmap](https://nmap.org/zenmap/)] Gui Version of the nmap.
+
+[[angry ip scanner](https://angryip.org/download/#windows)]
+
+[[_Advanced_IP_Scanner](https://www.advanced-ip-scanner.com/)]
+
+[[metasploit framwork](https://www.metasploit.com/)]
+
+[[wireshark](https://www.wireshark.org/)]
+
+[[Snort](https://www.snort.org/)]
+
+## Web Application Analysis
+
+
+[[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)]
+
+[[ffuf](https://github.com/ffuf/ffuf)]
+
+[[wfuzz](https://github.com/xmendez/wfuzz)]
+
+[[Gobuster](https://github.com/OJ/gobuster)]
+
+[[feroxbuster](https://github.com/epi052/feroxbuster)]
+
+[[DirBuster](https://github.com/KajanM/DirBuster)]
+
+[[dirb](https://salsa.debian.org/pkg-security-team/dirb)]
+
+[[httpx](https://github.com/projectdiscovery/httpx)]
+
+[[wpscan](https://github.com/wpscanteam/wpscan)]
+
+[[joomscan](https://github.com/OWASP/joomscan)]
+
+## Vulnerability Analysis
+
+[[nikto](https://github.com/sullo/nikto)]
+
+[[sparta](https://github.com/SECFORCE/sparta)]
+
+## Password Attack
+
+[Hydra] (https://github.com/vanhauser-thc/thc-hydra)
+
+[Patator] (https://github.com/lanjelot/patator)
+
+[Kerbrute]	(https://github.com/ropnop/kerbrute)
+
+[CrackMapExec]	(https://github.com/byt3bl33d3r/CrackMapExec)
+
+[SprayingToolkit] (https://github.com/byt3bl33d3r/SprayingToolkit)
+
+[John]	(https://github.com/openwall/john)
+
+[hashcat]	(https://hashcat.net/hashcat)
+
+[LaZagne]	(https://github.com/AlessandroZ/LaZagne)
+
+[mimikatz]	(https://github.com/gentilkiwi/mimikatz)
+
+[pypykatz]	(https://github.com/skelsec/pypykatz)
+
+[RsaCtfTool]	(https://github.com/Ganapati/RsaCtfTool)
+
+[Default Credentials Cheat Sheet]	(https://github.com/ihebski/DefaultCreds-cheat-sheet)
 
 [[]()]
 
 [[]()]
-
-[[]()]
-
-[[]()]
-
-[[]()]
-
-[[]()]
-
-[[]()]
-
