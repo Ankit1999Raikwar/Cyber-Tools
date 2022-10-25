@@ -57,6 +57,8 @@
 
 [email-checker[](https://email-checker.net/)]
 
+[ipinfo.io](https://ipinfo.io/) get the ip related information.
+
 
 [[sherlock](https://gitlab.com/kalilinux/packages/sherlock)] Hunt down social media accounts by username across social networks.
 
